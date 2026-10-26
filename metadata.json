@@ -1,0 +1,6 @@
+{
+  "name": "GOF Trade Academy",
+  "description": "Plateforme officielle de GOF Trade Academy - Dominez les marchés financiers avec la Flash Entry Strategy. Formations de trading, espace cours élève et validation Weltrade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
